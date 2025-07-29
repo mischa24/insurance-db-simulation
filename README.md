@@ -48,3 +48,8 @@ This repository contains a relational database simulation designed to represent 
 
 Developed for academic use, 2025.
 
+## 🖼️ Screenshot
+
+![phpMyAdmin Schema](screenshots/car-customer-schema.png)
+
+
