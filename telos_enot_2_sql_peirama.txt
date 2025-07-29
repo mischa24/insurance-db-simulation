@@ -1,0 +1,16 @@
+use insurance;
+SELECT first_name as name
+FROM customer 
+WHERE age>30;
+
+use insurance;
+SELECT CONCAT(first_name,"",last_name)as full_name
+FROM customer
+WHERE age>30;
+
+use insurance;
+SELECT CONCAT_WS("_",first_name,last_name)as full_name
+FROM customer
+WHERE age>30;
+
+

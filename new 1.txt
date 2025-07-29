@@ -1,0 +1,4 @@
+use insurance;
+SELECT price,color,year 
+FROM car;
+

@@ -1,0 +1,36 @@
+use insurance;
+SELECT*FROM car
+WHERE (price<12000)OR(price>15000);
+
+use insurance;
+SELECT SUM(price), AVG(price) FROM car;
+
+use insurance;
+SELECT MIN(price), MAX(price) FROM car;
+
+use insurance;
+SELECT MIN(price), MAX(price) FROM car;
+
+
+use insurance;
+SELECT COUNT(color)
+FROM car
+WHERE color IN('red','silver');
+
+use insurance;
+SELECT first_name,last_name,age
+FROM customer
+WHERE age>30;
+
+use insurance;
+SELECT customer_id,first_name,last_name
+FROM customer
+WHERE last_name LIKE '_a%';
+
+use insurance;
+SELECT first_name,last_name
+FROM customer
+WHERE last_name LIKE 'Di%ou';
+
+
+
