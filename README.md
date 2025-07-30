@@ -1,3 +1,9 @@
+![License](https://img.shields.io/badge/license-Other-lightgrey)
+![SQL](https://img.shields.io/badge/Database-Relational_SQL-blue)
+![Simulation](https://img.shields.io/badge/Project-Insurance_Simulation-orange)
+![Entities](https://img.shields.io/badge/Entities-Customer_&_Car-informational)
+![Use Case](https://img.shields.io/badge/Use_Case-Data_Modeling-critical)
+
 # Insurance Database Simulation – SQL Project
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
